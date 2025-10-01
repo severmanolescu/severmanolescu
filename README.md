@@ -1,7 +1,7 @@
 
-# Hi there, I'm Sever 👋
-
-**Software Developer** specializing in C++, Python, and backend systems with 3 years of experience in automotive ADAS simulation tools.
+<div align="center">
+  <img src="./banner.svg" alt="Sever Manolescu" width="99%">
+</div>
 
 ## 🚀 About Me
 
