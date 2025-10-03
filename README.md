@@ -5,43 +5,71 @@
 
 ## 🚀 About Me
 
-- 💼 Former Software Developer at **Continental Automotive** (2022-2025)
+- 💼 Former Software Developer at **Continental Automotive** (Oct 2022 - Jul 2024)
 - 🎮 Passionate about **game engine development** and **developer tooling**
 - 🛠️ Building tools that improve workflows and solve real problems
 - 🌱 Currently working on **Eridion** - a 2D city builder inspired by Anno 1800
 - 🇷🇴 Based in Romania
 
+## 🎯 Currently Learning
+
+- Advanced C++ patterns and performance optimization
+- Modern game engine architecture
+- Real-time system design and optimization
+
+## 📊 Quick Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severmanolescu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
+
 ## 💻 Featured Projects
-
-### 🎮 Game Development
-
-**[Eridion](https://github.com/severmanolescu/Eridion)** ⭐ *In Active Development*  
-2D city-building game with procedural map generation inspired by Anno 1800  
-`Unity` `C#` `Perlin Noise` `Game Simulation`
-
-**[Ecspel](https://github.com/severmanolescu/Ecspel)**  
-2D farming RPG inspired by Stardew Valley, set in Romania  
-*Complete game systems + all custom pixel art created in Aseprite*  
-`Unity` `C#` `Aseprite`
-
-**[Talon](https://github.com/severmanolescu/Talon)**  
-Custom 2D game engine built from scratch in C++  
-*Features: Component system, physics engine, SDL2 rendering, ImGui editor*  
-`C++17` `SDL2` `ImGui`
 
 ### 🛠️ Developer Tools
 
-**[App Time Tracker](https://github.com/severmanolescu/app-time-tracker)** ⭐ *In Active Development*  
-Electron desktop app for automatic application usage tracking  
-*Steam-inspired UI, real-time tracking, session analytics*  
+<a href="https://github.com/severmanolescu/app-time-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=app-time-tracker&theme=tokyonight&hide_border=true" />
+</a>
+
+⭐ *In Active Development* - Electron desktop app for automatic application usage tracking
+*Steam-inspired UI, real-time tracking, session analytics*
 `Electron` `JavaScript` `HTML` `CSS` `SQLite`
 
 ### 🤖 Automation & Bots
 
-**[Crypto Bot Ecosystem](https://github.com/severmanolescu/Crypto-Bot-Ecosystem)**  
-Telegram bots for crypto market analysis  
-*AI summaries, price alerts, portfolio tracking, open-source*  
+<a href="https://github.com/severmanolescu/Crypto-Bot-Ecosystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Crypto-Bot-Ecosystem&theme=tokyonight&hide_border=true" />
+</a>
+
+Telegram bots for crypto market analysis
+*AI summaries, price alerts, portfolio tracking, open-source*
 `Python` `Telegram API` `SQLite` `CI/CD` `Raspberry Pi`
+
+### 🎮 Game Development
+
+<a href="https://github.com/severmanolescu/Eridion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
+</a>
+
+⭐ *In Active Development* - 2D city-building game with procedural map generation inspired by Anno 1800
+`Unity` `C#` `Perlin Noise` `Game Simulation`
+
+<a href="https://github.com/severmanolescu/Ecspel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
+</a>
+
+2D farming RPG inspired by Stardew Valley, set in Romania
+*Complete game systems + all custom pixel art created in Aseprite*
+`Unity` `C#` `Aseprite`
+
+<a href="https://github.com/severmanolescu/Talon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
+</a>
+
+Custom 2D game engine built from scratch in C++
+*Features: Component system, physics engine, SDL2 rendering, ImGui editor*
+`C++17` `SDL2` `ImGui`
 
 ## 🛠️ Tech Stack
 
@@ -72,24 +100,41 @@ Telegram bots for crypto market analysis
 
 ## 💼 Professional Experience
 
-**Software Developer** @ Continental Automotive *(Oct 2022 - Jul 2025)*
+**Software Developer** @ Continental Automotive *(2021 - 2025)*
 - Developed backend tools for ADAS radar sensor simulation (C++/Python)
 - Built multi-component distributed systems with WebSockets
 - Implemented CI/CD pipelines with Jenkins
 - Improved system stability across Linux environments
 
-## 📊 GitHub Stats
+## 🎨 When I'm Not Coding
 
-<p  align="center">
-	 <img  src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"  alt="GitHub Stats"  height="165"> 
-	 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=severmanolescu&layout=compact&theme=tokyonight&hide_border=true"  alt="Top Languages"  height="165"> 
- </p>
- 
+- Creating pixel art in Aseprite for game projects
+- Exploring game design and city-building mechanics
+- Tinkering with Raspberry Pi automation projects
+
+## 📊 Detailed Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=severmanolescu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=severmanolescu&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=severmanolescu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+</p>
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sever-manolescu-207775176/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:severmanolescu1@gmail.com)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=severmanolescu&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
-💡 *"Building tools that make developers' lives easier, one project at a time."*
+💡 *"From game engines to developer tools - building what I'm passionate about, one commit at a time."*
