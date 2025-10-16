@@ -140,56 +140,63 @@
     <text x="60" y="108" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="400" fill="#8b949e">
       <tspan fill="#58a6ff" font-weight="500">C++</tspan>
       <tspan fill="#58a6ff" dx="10" font-weight="300">•</tspan>
+      <tspan fill="#58a6ff" dx="10" font-weight="500">C#</tspan>
+      <tspan fill="#58a6ff" dx="10" font-weight="300">•</tspan>
       <tspan fill="#58a6ff" dx="10" font-weight="500">Python</tspan>
       <tspan fill="#58a6ff" dx="10" font-weight="300">•</tspan>
-      <tspan fill="#58a6ff" dx="10" font-weight="500">C#</tspan>
+      <tspan fill="#58a6ff" dx="10" font-weight="500">JavaScript</tspan>
       <tspan dx="10" font-weight="300">|</tspan>
-      <tspan dx="10">3 Years Experience</tspan>
+      <tspan dx="10">4 Years Experience</tspan>
       <tspan dx="15">🇷🇴</tspan>
       <tspan dx="8" font-size="18">Romania</tspan>
     </text>
 
     <!-- Current Focus Badge -->
-    <rect x="60" y="120" width="250" height="22" rx="4" fill="rgba(63, 185, 80, 0.1)" stroke="rgba(63, 185, 80, 0.3)" stroke-width="1"/>
+    <rect x="60" y="120" width="280" height="22" rx="4" fill="rgba(63, 185, 80, 0.1)" stroke="rgba(63, 185, 80, 0.3)" stroke-width="1"/>
     <circle cx="70" cy="131" r="3" fill="#3fb950"/>
-    <text x="80" y="135" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#3fb950">Currently: Game &amp;&amp; App Development</text>
+    <text x="80" y="135" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#3fb950">Currently: Game Engine &amp; Developer Tools</text>
   </g>
 
   <!-- Projects Section -->
   <g id="projects">
-    <!-- Project 1: App Tracker -->
+    <!-- Project 1: Ember Engine -->
     <g class="project-card">
       <rect x="60" y="162" width="570" height="52" rx="8" fill="rgba(88, 166, 255, 0.05)" stroke="rgba(88, 166, 255, 0.15)" stroke-width="1"/>
-      <text x="92" y="194" font-size="24">📊</text>
-      <text x="136" y="194" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">App Time Tracker</text>
+      <text x="92" y="194" font-size="24">🔥</text>
+      <text x="136" y="194" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Ember Engine</text>
       <rect class="wip-badge" x="520" y="176" width="70" height="24" rx="4" fill="rgba(88, 166, 255, 0.1)"/>
       <text x="540" y="192" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#58a6ff">WIP</text>
     </g>
-    
-    <!-- Project 2: Crypto Bots -->
+
+    <!-- Project 2: App Tracker -->
     <g class="project-card">
       <rect x="650" y="162" width="570" height="52" rx="8" fill="rgba(88, 166, 255, 0.05)" stroke="rgba(88, 166, 255, 0.15)" stroke-width="1"/>
-      <text x="682" y="194" font-size="24">🤖</text>
-      <text x="726" y="194" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Crypto Bot Ecosystem</text>
+      <text x="682" y="194" font-size="24">📊</text>
+      <text x="726" y="194" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">App Time Tracker</text>
+      <rect class="wip-badge-2" x="1110" y="176" width="70" height="24" rx="4" fill="rgba(88, 166, 255, 0.1)"/>
+      <text x="1130" y="192" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#58a6ff">WIP</text>
     </g>
 
-    <!-- Project 3: Talon Engine -->
+    <!-- Project 3: Talon Engine + Eridion -->
     <g class="project-card">
       <rect x="60" y="230" width="570" height="52" rx="8" fill="rgba(88, 166, 255, 0.05)" stroke="rgba(88, 166, 255, 0.15)" stroke-width="1"/>
       <text x="92" y="262" font-size="24">🎮</text>
       <text x="136" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Talon Engine</text>
+      <text x="290" y="262" font-family="'Segoe UI', sans-serif" font-size="14" fill="#58a6ff">+</text>
+      <text x="308" y="262" font-size="20">🏰</text>
+      <text x="340" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Eridion</text>
+      <rect class="wip-badge" x="520" y="244" width="70" height="24" rx="4" fill="rgba(88, 166, 255, 0.1)"/>
+      <text x="540" y="260" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#58a6ff">WIP</text>
     </g>
 
-    <!-- Project 4: Eridion + Ecspel -->
+    <!-- Project 4: Ecspel + Crypto Bots -->
     <g class="project-card">
       <rect x="650" y="230" width="570" height="52" rx="8" fill="rgba(88, 166, 255, 0.05)" stroke="rgba(88, 166, 255, 0.15)" stroke-width="1"/>
-      <text x="682" y="262" font-size="24">🏰</text>
-      <text x="726" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Eridion</text>
-      <rect class="wip-badge-2" x="820" y="244" width="70" height="24" rx="4" fill="rgba(88, 166, 255, 0.1)"/>
-      <text x="840" y="260" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#58a6ff">WIP</text>
-      <text x="910" y="262" font-family="'Segoe UI', sans-serif" font-size="14" fill="#58a6ff">+</text>
-      <text x="928" y="262" font-size="20">🎨</text>
-      <text x="960" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Ecspel</text>
+      <text x="682" y="262" font-size="24">🎨</text>
+      <text x="726" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Ecspel</text>
+      <text x="820" y="262" font-family="'Segoe UI', sans-serif" font-size="14" fill="#58a6ff">+</text>
+      <text x="838" y="262" font-size="20">🤖</text>
+      <text x="870" y="262" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#c9d1d9">Crypto Bot Ecosystem</text>
     </g>
   </g>
   
