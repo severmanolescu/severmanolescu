@@ -26,39 +26,6 @@
 
 ## 💻 Featured Projects
 
-### 🎮 Game Development
-
-<a href="https://github.com/severmanolescu/Eridion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
-</a>
-
-⭐ *In Active Development* - 2D city-building game with procedural map generation inspired by Anno 1800
-`Unity` `C#` `Perlin Noise` `Game Simulation`
-
-<a href="https://github.com/severmanolescu/Ecspel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
-</a>
-
-2D farming RPG inspired by Stardew Valley, set in Romania
-*Complete game systems + all custom pixel art created in Aseprite*
-`Unity` `C#` `Aseprite`
-
-<a href="https://github.com/severmanolescu/Ember-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
-</a>
-
-⭐ *In Active Development* - Modern 2D game engine built from scratch with OpenGL 4.6
-*Features: Sprite rendering, animation state machine, camera system, game object components*
-`C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
-
-<a href="https://github.com/severmanolescu/Talon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
-</a>
-
-Custom 2D game engine built from scratch in C++
-*Features: Component system, physics engine, SDL2 rendering, ImGui editor*
-`C++17` `SDL2` `ImGui`
-
 ### 🛠️ Developer Tools
 
 <a href="https://github.com/severmanolescu/app-time-tracker">
@@ -68,6 +35,39 @@ Custom 2D game engine built from scratch in C++
 ⭐ *In Active Development* - Electron desktop app for automatic application usage tracking
 *Steam-inspired UI, real-time tracking, session analytics*
 `Electron` `JavaScript` `HTML` `CSS` `SQLite`
+
+### 🎮 Game Development
+
+<a href="https://github.com/severmanolescu/Ember-Engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
+</a>
+
+⭐ *In Active Development* - Modern 2D game engine built from scratch with OpenGL 4.6
+*Features: Sprite rendering, animation state machine, camera system, game object components*
+`C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
+
+<a href="https://github.com/severmanolescu/Eridion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
+</a>
+
+⭐ *In Active Development* - 2D city-building game with procedural map generation inspired by Anno 1800
+`Unity` `C#` `Perlin Noise` `Game Simulation`
+
+<a href="https://github.com/severmanolescu/Talon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
+</a>
+
+Custom 2D game engine built from scratch in C++
+*Features: Component system, physics engine, SDL2 rendering, ImGui editor*
+`C++17` `SDL2` `ImGui`
+
+<a href="https://github.com/severmanolescu/Ecspel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
+</a>
+
+2D farming RPG inspired by Stardew Valley, set in Romania
+*Complete game systems + all custom pixel art created in Aseprite*
+`Unity` `C#` `Aseprite`
 
 ### 🤖 Automation & Bots
 
