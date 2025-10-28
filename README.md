@@ -13,7 +13,11 @@
 
 ## 🌐 Portfolio
 
-Check out my portfolio website: **[severmanolescu.github.io](https://severmanolescu.github.io/)**
+<p align="center">
+  <a href="https://severmanolescu.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" alt="Portfolio Website" />
+  </a>
+</p>
 
 ## 🎯 Currently Learning
 
@@ -28,6 +32,8 @@ Check out my portfolio website: **[severmanolescu.github.io](https://severmanole
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severmanolescu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
+---
+
 ## 💻 Featured Projects
 
 ### 🛠️ Developer Tools
@@ -36,9 +42,11 @@ Check out my portfolio website: **[severmanolescu.github.io](https://severmanole
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=app-time-tracker&theme=tokyonight&hide_border=true" />
 </a>
 
-⭐ *In Active Development* - Electron desktop app for automatic application usage tracking
-*Steam-inspired UI, real-time tracking, session analytics*
+**⭐ In Active Development** - Electron desktop app for automatic application usage tracking
+**Features:** Steam-inspired UI, real-time tracking, session analytics
 `Electron` `JavaScript` `HTML` `CSS` `SQLite`
+
+<br/>
 
 ### 🎮 Game Development
 
@@ -46,32 +54,40 @@ Check out my portfolio website: **[severmanolescu.github.io](https://severmanole
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
 </a>
 
-⭐ *In Active Development* - 2D city-building game with procedural map generation inspired by Anno 1800
+**⭐ In Active Development** - 2D city-building game with procedural map generation inspired by Anno 1800
 `Unity` `C#` `Perlin Noise` `Game Simulation`
+
+<br/>
 
 <a href="https://github.com/severmanolescu/Ecspel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
 </a>
 
 2D farming RPG inspired by Stardew Valley, set in Romania
-*Complete game systems + all custom pixel art created in Aseprite*
+**Features:** Complete game systems + all custom pixel art created in Aseprite
 `Unity` `C#` `Aseprite`
+
+<br/>
 
 <a href="https://github.com/severmanolescu/Ember-Engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
 </a>
 
-⭐ *In Active Development* - Modern 2D game engine built from scratch with OpenGL 4.6
-*Features: Sprite rendering, animation state machine, camera system, game object components*
+**⭐ In Active Development** - Modern 2D game engine built from scratch with OpenGL 4.6
+**Features:** Sprite rendering, animation state machine, camera system, game object components
 `C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
+
+<br/>
 
 <a href="https://github.com/severmanolescu/Talon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
 </a>
 
 Custom 2D game engine built from scratch in C++
-*Features: Component system, physics engine, SDL2 rendering, ImGui editor*
+**Features:** Component system, physics engine, SDL2 rendering, ImGui editor
 `C++17` `SDL2` `ImGui`
+
+<br/>
 
 ### 🤖 Automation & Bots
 
@@ -80,8 +96,10 @@ Custom 2D game engine built from scratch in C++
 </a>
 
 Telegram bots for crypto market analysis
-*AI summaries, price alerts, portfolio tracking, open-source*
+**Features:** AI summaries, price alerts, portfolio tracking, open-source
 `Python` `Telegram API` `SQLite` `CI/CD` `Raspberry Pi`
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -119,6 +137,8 @@ Telegram bots for crypto market analysis
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
+---
+
 ## 💼 Professional Experience
 
 **Software Developer** @ Continental Automotive *(Oct 2022 - Jul 2024)*
@@ -127,13 +147,17 @@ Telegram bots for crypto market analysis
 - Implemented CI/CD pipelines with Jenkins
 - Improved system stability across Linux environments
 
+---
+
 ## 🎨 When I'm Not Coding
 
 - Creating pixel art in Aseprite for game projects
 - Exploring game design and city-building mechanics
 - Tinkering with Raspberry Pi automation projects
 
-## 📊 Detailed Stats
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=severmanolescu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
