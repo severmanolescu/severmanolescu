@@ -3,15 +3,15 @@
   <img src="./banner.svg" alt="Sever Manolescu" width="99%">
 </div>
 
-## 🚀 About Me
+## About Me
 
-- 💼 Former Software Developer at **Continental Automotive** (Oct 2022 - Jun 2024)
-- 🎮 Passionate about **game engine development** and **developer tooling**
-- 🛠️ Building tools that improve workflows and solve real problems
-- 🌱 Currently working on **Eridion** - a 2D city builder inspired by Anno 1800
+- Former **Software Developer** at **Continental Automotive** (Oct 2022 - Jun 2025)
+- Passionate about **game engine development** and **developer tooling**
+- Building tools that improve workflows and solve real problems
+- Currently working on **Breasla** - a Papers, Please-inspired game set in 1600s Romania, and **Eridion** - a 2D city builder
 - 🇷🇴 Based in Romania
 
-## 🌐 Portfolio
+##Portfolio
 
 <p align="center">
   <a href="https://severmanolescu.github.io/">
@@ -19,13 +19,13 @@
   </a>
 </p>
 
-## 🎯 Currently Learning
+##Currently Learning
 
 - Advanced C++ patterns and performance optimization
 - Modern game engine architecture
 - Real-time system design and optimization
 
-## 📊 Quick Stats
+##Quick Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -34,27 +34,33 @@
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🛠️ Developer Tools
+### Developer Tools
 
-<a href="https://github.com/severmanolescu/app-time-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=app-time-tracker&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/severmanolescu/prism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=prism&theme=tokyonight&hide_border=true" />
 </a>
 
-**⭐ In Active Development** - Electron desktop app for automatic application usage tracking
+**In Active Development** - Electron desktop app for automatic application usage tracking
 **Features:** Steam-inspired UI, real-time tracking, session analytics
 `Electron` `JavaScript` `HTML` `CSS` `SQLite`
 
 <br/>
 
-### 🎮 Game Development
+### Game Development
+
+**Breasla** *(Private Repository - In Active Development)*
+
+Papers, Please-inspired document inspection game set in 1600s Romania during Mihai Viteazul's reign  
+**Features:** Warrior guild management, moral choice system, procedural document generation, Romanian folklore creatures (Strigoi, Moroi, Iele, Haiduc), multiple endings based on reputation  
+`Unity` `C#` `Aseprite` `Narrative Design`
 
 <a href="https://github.com/severmanolescu/Eridion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
 </a>
 
-**⭐ In Active Development** - 2D city-building game with procedural map generation inspired by Anno 1800
+2D city-building game with procedural map generation inspired by Anno 1800
 `Unity` `C#` `Perlin Noise` `Game Simulation`
 
 <br/>
@@ -73,7 +79,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
 </a>
 
-**⭐ In Active Development** - Modern 2D game engine built from scratch with OpenGL 4.6
+Modern 2D game engine built from scratch with OpenGL 4.6
 **Features:** Sprite rendering, animation state machine, camera system, game object components
 `C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
 
@@ -89,7 +95,7 @@ Custom 2D game engine built from scratch in C++
 
 <br/>
 
-### 🤖 Automation & Bots
+### Automation & Bots
 
 <a href="https://github.com/severmanolescu/Crypto-Bot-Ecosystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Crypto-Bot-Ecosystem&theme=tokyonight&hide_border=true" />
@@ -139,9 +145,9 @@ Telegram bots for crypto market analysis
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-**Software Developer** @ Continental Automotive *(Oct 2022 - Jul 2024)*
+**Software Developer** @ Continental Automotive *(Oct 2022 - Jun 2025)*
 - Developed backend tools for ADAS radar sensor simulation (C++/Python)
 - Built multi-component distributed systems with WebSockets
 - Implemented CI/CD pipelines with Jenkins
@@ -149,7 +155,7 @@ Telegram bots for crypto market analysis
 
 ---
 
-## 🎨 When I'm Not Coding
+## When I'm Not Coding
 
 - Creating pixel art in Aseprite for game projects
 - Exploring game design and city-building mechanics
@@ -157,7 +163,7 @@ Telegram bots for crypto market analysis
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=severmanolescu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -171,7 +177,7 @@ Telegram bots for crypto market analysis
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=severmanolescu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 </p>
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sever-manolescu-207775176/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:severmanolescu1@gmail.com)
@@ -182,4 +188,4 @@ Telegram bots for crypto market analysis
 
 ---
 
-💡 *"From game engines to developer tools - building what I'm passionate about, one commit at a time."*
+*"From game engines to developer tools - building what I'm passionate about, one commit at a time."*
