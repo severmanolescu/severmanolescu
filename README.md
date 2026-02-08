@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 💼 Former Software Developer at **Continental Automotive** (Oct 2022 - Jul 2024)
+- 💼 Former Software Developer at **Continental Automotive** (Oct 2022 - Jun 2024)
 - 🎮 Passionate about **game engine development** and **developer tooling**
 - 🛠️ Building tools that improve workflows and solve real problems
 - 🌱 Currently working on **Eridion** - a 2D city builder inspired by Anno 1800
