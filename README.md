@@ -5,7 +5,7 @@
 
 ## About Me
 
-- Former **Software Developer** at **Continental Automotive** (Oct 2022 - Jul 2025)
+- Former **Software Developer** at **Continental Automotive** (Jul 2021 - Jul 2025)
 - Passionate about **game engine development** and **developer tooling**
 - Building tools that improve workflows and solve real problems
 - Currently working on **Breasla** - a Papers, Please-inspired game set in 1600s Romania, and **Eridion** - a 2D city builder
@@ -147,7 +147,7 @@ Telegram bots for crypto market analysis
 
 ## Professional Experience
 
-**Software Developer** @ Continental Automotive *(Oct 2022 - Jul 2025)*
+**Software Developer** @ Continental Automotive *(Jul 2021 - Jul 2025)*
 - Developed backend tools for ADAS radar sensor simulation (C++/Python)
 - Built multi-component distributed systems with WebSockets
 - Implemented CI/CD pipelines with Jenkins
@@ -160,6 +160,7 @@ Telegram bots for crypto market analysis
 - Creating pixel art in Aseprite for game projects
 - Exploring game design and city-building mechanics
 - Tinkering with Raspberry Pi automation projects
+- Reading books
 
 ---
 
