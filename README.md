@@ -1,12 +1,12 @@
 ## About Me
 
-- Former **Software Developer** at **Continental Automotive** (Jul 2021 - Jul 2025)
-- Passionate about **game engine development** and **developer tooling**
-- Building tools that improve workflows and solve real problems
-- Currently working on **Breasla** - a Papers, Please-inspired game set in 1600s Romania, and **Eridion** - a 2D city builder
-- 🇷🇴 Based in Romania
+- **Software Developer** at **Nokia** (Apr 2026 - present), working on 5G RAN / CPlane
+- Previously **Software Developer** at **Continental Automotive** (Jul 2021 - Jul 2025), ADAS radar sensor simulation
+- Building two indie games in my free time: **Breasla** (Papers, Please-inspired, set in 1600s Wallachia) and a Linux/shell learning game
+- Interested in game engine architecture, modern C++, and developer tooling
+- 🇷🇴 Based in Timișoara, Romania
 
-##Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://severmanolescu.github.io/">
@@ -14,13 +14,13 @@
   </a>
 </p>
 
-##Currently Learning
+## Currently Learning
 
-- Advanced C++ patterns and performance optimization
+- Advanced C++ patterns (`std::expected`, type-state design) and performance optimization
 - Modern game engine architecture
 - Real-time system design and optimization
 
-##Quick Stats
+## Quick Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -31,25 +31,48 @@
 
 ## Featured Projects
 
-### Developer Tools
+### Breasla *(Private Repository — In Active Development)*
+
+Papers, Please-inspired document inspection game set in 1600s Romania during Mihai Viteazul's reign
+**Features:** Warrior guild management, moral choice system, procedural document generation, Romanian folklore creatures (Strigoi, Moroi, Iele, Haiduc), multiple endings based on reputation
+`Unity` `C#` `Aseprite` `Narrative Design`
+
+<br/>
 
 <a href="https://github.com/severmanolescu/prism">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=prism&theme=tokyonight&hide_border=true" />
 </a>
 
-**In Active Development** - Electron desktop app for automatic application usage tracking
+**Prism** — Electron desktop app for automatic application usage tracking
 **Features:** Steam-inspired UI, real-time tracking, session analytics
 `Electron` `JavaScript` `HTML` `CSS` `SQLite`
 
 <br/>
 
-### Game Development
+<a href="https://github.com/severmanolescu/Ember-Engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
+</a>
 
-**Breasla** *(Private Repository - In Active Development)*
+**Ember Engine** — 2D game engine built from scratch with OpenGL 4.6
+**Features:** Sprite rendering, animation state machine, camera system, game object components
+`C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
 
-Papers, Please-inspired document inspection game set in 1600s Romania during Mihai Viteazul's reign  
-**Features:** Warrior guild management, moral choice system, procedural document generation, Romanian folklore creatures (Strigoi, Moroi, Iele, Haiduc), multiple endings based on reputation  
-`Unity` `C#` `Aseprite` `Narrative Design`
+<br/>
+
+<a href="https://github.com/severmanolescu/Crypto-Bot-Ecosystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Crypto-Bot-Ecosystem&theme=tokyonight&hide_border=true" />
+</a>
+
+**Crypto Bot Ecosystem** — Telegram bots for crypto market analysis
+**Features:** AI summaries, price alerts, portfolio tracking, open-source
+`Python` `Telegram API` `SQLite` `CI/CD` `Raspberry Pi`
+
+<br/>
+
+<details>
+<summary>More projects (Eridion, Ecspel, Talon)</summary>
+
+<br/>
 
 <a href="https://github.com/severmanolescu/Eridion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
@@ -70,16 +93,6 @@ Papers, Please-inspired document inspection game set in 1600s Romania during Mih
 
 <br/>
 
-<a href="https://github.com/severmanolescu/Ember-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
-</a>
-
-Modern 2D game engine built from scratch with OpenGL 4.6
-**Features:** Sprite rendering, animation state machine, camera system, game object components
-`C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
-
-<br/>
-
 <a href="https://github.com/severmanolescu/Talon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
 </a>
@@ -88,17 +101,7 @@ Custom 2D game engine built from scratch in C++
 **Features:** Component system, physics engine, SDL2 rendering, ImGui editor
 `C++17` `SDL2` `ImGui`
 
-<br/>
-
-### Automation & Bots
-
-<a href="https://github.com/severmanolescu/Crypto-Bot-Ecosystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Crypto-Bot-Ecosystem&theme=tokyonight&hide_border=true" />
-</a>
-
-Telegram bots for crypto market analysis
-**Features:** AI summaries, price alerts, portfolio tracking, open-source
-`Python` `Telegram API` `SQLite` `CI/CD` `Raspberry Pi`
+</details>
 
 ---
 
@@ -142,6 +145,11 @@ Telegram bots for crypto market analysis
 
 ## Professional Experience
 
+**Software Developer** @ Nokia *(Apr 2025 - present)*
+- Working on CPlane development for 5G RAN
+- Refactoring C++ codebase with modern patterns (`std::expected`, type-state design)
+- Code review via Gerrit
+
 **Software Developer** @ Continental Automotive *(Jul 2021 - Jul 2025)*
 - Developed backend tools for ADAS radar sensor simulation (C++/Python)
 - Built multi-component distributed systems with WebSockets
@@ -152,9 +160,10 @@ Telegram bots for crypto market analysis
 
 ## When I'm Not Coding
 
+- Gym training
+- Tinkering with my Raspberry Pi homelab (Docker, Grafana, Home Assistant)
+- Working on my Audi A4 B7 myself
 - Creating pixel art in Aseprite for game projects
-- Exploring game design and city-building mechanics
-- Tinkering with Raspberry Pi automation projects
 - Reading books
 
 ---
@@ -184,4 +193,4 @@ Telegram bots for crypto market analysis
 
 ---
 
-*"From game engines to developer tools - building what I'm passionate about, one commit at a time."*
+*"From game engines to developer tools — building what I'm passionate about, one commit at a time."*
