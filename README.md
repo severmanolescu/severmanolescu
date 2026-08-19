@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="./banner.svg" alt="Sever Manolescu" width="99%">
-</div>
-
 ## About Me
 
 - Former **Software Developer** at **Continental Automotive** (Jul 2021 - Jul 2025)
