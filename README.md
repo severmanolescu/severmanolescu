@@ -1,8 +1,8 @@
 ## About Me
 
-- **Software Developer** at **Nokia** (Apr 2026 - present), working on 5G RAN / CPlane
-- Previously **Software Developer** at **Continental Automotive** (Jul 2021 - Jul 2025), ADAS radar sensor simulation
-- Building two indie games in my free time: **Breasla** (Papers, Please-inspired, set in 1600s Wallachia) and a Linux/shell learning game
+- **Software Developer** at **Nokia** (Apr 2026 – present), working on 5G RAN / CPlane
+- Previously **Software Developer** at **Continental Automotive** (Jul 2021 – Jul 2025), ADAS radar sensor simulation
+- Building indie games in my free time — currently **Breasla** (Papers, Please-inspired, set in 1600s Wallachia)
 - Interested in game engine architecture, modern C++, and developer tooling
 - 🇷🇴 Based in Timișoara, Romania
 
@@ -12,16 +12,53 @@
 - Modern game engine architecture
 - Real-time system design and optimization
 
+---
+
 ## Quick Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severmanolescu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## Featured Projects
 
-### Breasla *(Private Repository — In Active Development)*
+<a href="https://github.com/severmanolescu/Talon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
+</a>
 
-Papers, Please-inspired document inspection game set in 1600s Romania during Mihai Viteazul's reign
+**Talon** — Custom 2D game engine built from scratch in C++
+**Features:** Entity component system, 2D physics, SDL2 rendering, custom memory allocators, ImGui-based live scene editor, hot-reloading
+`C++17` `SDL2` `ImGui`
+
+<br/>
+
+*(Private Repository — In Active Development)*
+
+**Breasla** — Papers, Please-inspired document inspection game set in 1600s Romania during Mihai Viteazul's reign
 **Features:** Warrior guild management, moral choice system, procedural document generation, Romanian folklore creatures (Strigoi, Moroi, Iele, Haiduc), multiple endings based on reputation
 `Unity` `C#` `Aseprite` `Narrative Design`
+
+<br/>
+
+<a href="https://github.com/severmanolescu/Eridion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
+</a>
+
+**Eridion** — 2D city-building game with procedural map generation, inspired by Anno 1800
+`Unity` `C#` `Perlin Noise` `Game Simulation`
+
+<br/>
+
+<a href="https://github.com/severmanolescu/Ecspel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
+</a>
+
+**Ecspel** — 2D farming RPG inspired by Stardew Valley, set in Romania
+**Features:** Complete game systems, all custom pixel art created in Aseprite
+`Unity` `C#` `Aseprite`
 
 <br/>
 
@@ -35,16 +72,6 @@ Papers, Please-inspired document inspection game set in 1600s Romania during Mih
 
 <br/>
 
-<a href="https://github.com/severmanolescu/Ember-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ember-Engine&theme=tokyonight&hide_border=true" />
-</a>
-
-**Ember Engine** — 2D game engine built from scratch with OpenGL 4.6
-**Features:** Sprite rendering, animation state machine, camera system, game object components
-`C++` `OpenGL 4.6` `GLFW` `Glad` `GLM` `stb_image`
-
-<br/>
-
 <a href="https://github.com/severmanolescu/Crypto-Bot-Ecosystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Crypto-Bot-Ecosystem&theme=tokyonight&hide_border=true" />
 </a>
@@ -52,42 +79,6 @@ Papers, Please-inspired document inspection game set in 1600s Romania during Mih
 **Crypto Bot Ecosystem** — Telegram bots for crypto market analysis
 **Features:** AI summaries, price alerts, portfolio tracking, open-source
 `Python` `Telegram API` `SQLite` `CI/CD` `Raspberry Pi`
-
-<br/>
-
-<details>
-<summary>More projects (Eridion, Ecspel, Talon)</summary>
-
-<br/>
-
-<a href="https://github.com/severmanolescu/Eridion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Eridion&theme=tokyonight&hide_border=true" />
-</a>
-
-2D city-building game with procedural map generation inspired by Anno 1800
-`Unity` `C#` `Perlin Noise` `Game Simulation`
-
-<br/>
-
-<a href="https://github.com/severmanolescu/Ecspel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Ecspel&theme=tokyonight&hide_border=true" />
-</a>
-
-2D farming RPG inspired by Stardew Valley, set in Romania
-**Features:** Complete game systems + all custom pixel art created in Aseprite
-`Unity` `C#` `Aseprite`
-
-<br/>
-
-<a href="https://github.com/severmanolescu/Talon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=severmanolescu&repo=Talon&theme=tokyonight&hide_border=true" />
-</a>
-
-Custom 2D game engine built from scratch in C++
-**Features:** Component system, physics engine, SDL2 rendering, ImGui editor
-`C++17` `SDL2` `ImGui`
-
-</details>
 
 ---
 
@@ -104,8 +95,6 @@ Custom 2D game engine built from scratch in C++
 
 **Game Development:**
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl&logoColor=black)
-![GLFW](https://img.shields.io/badge/GLFW-blue?style=flat)
 ![SDL2](https://img.shields.io/badge/SDL2-black?style=flat)
 ![ImGui](https://img.shields.io/badge/ImGui-blue?style=flat)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
@@ -131,16 +120,17 @@ Custom 2D game engine built from scratch in C++
 
 ## Professional Experience
 
-**Software Developer** @ Nokia *(Apr 2025 - present)*
+**Software Developer** @ Nokia *(Apr 2026 – present)*
 - Working on CPlane development for 5G RAN
 - Refactoring C++ codebase with modern patterns (`std::expected`, type-state design)
 - Code review via Gerrit
+- Collaborating with engineering teams across multiple countries to trace, debug, and resolve complex cross-component issues
 
-**Software Developer** @ Continental Automotive *(Jul 2021 - Jul 2025)*
+**Software Developer** @ Continental Automotive *(Jul 2021 – Jul 2025)*
 - Developed backend tools for ADAS radar sensor simulation (C++/Python)
 - Built multi-component distributed systems with WebSockets
-- Implemented CI/CD pipelines with Jenkins
-- Improved system stability across Linux environments
+- Implemented CI/CD pipelines with Jenkins, improving tool reliability by 10%
+- Reduced crash rate by 50% by implementing graceful shutdown across distributed components
 
 ---
 
@@ -151,6 +141,7 @@ Custom 2D game engine built from scratch in C++
 - Working on my Audi A4 B7 myself
 - Creating pixel art in Aseprite for game projects
 - Reading books
+- Playing simulation, city-builder, and RPG games — Age of Empires II, Anno 1800, Satisfactory, and Captain of Industry among my favorites
 
 ---
 
