@@ -6,14 +6,6 @@
 - Interested in game engine architecture, modern C++, and developer tooling
 - 🇷🇴 Based in Timișoara, Romania
 
-## Portfolio
-
-<p align="center">
-  <a href="https://severmanolescu.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" alt="Portfolio Website" />
-  </a>
-</p>
-
 ## Currently Learning
 
 - Advanced C++ patterns (`std::expected`, type-state design) and performance optimization
@@ -21,12 +13,6 @@
 - Real-time system design and optimization
 
 ## Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=severmanolescu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severmanolescu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
 ---
 
 ## Featured Projects
